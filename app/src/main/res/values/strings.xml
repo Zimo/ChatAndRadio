@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="main_layout_title">EX Fest Algeria RadioWeb</string>
+    <string name="chat_layout_title">EX Fest Algeria Chat</string>
+</resources>

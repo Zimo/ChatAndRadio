@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "858369441059",
+    "firebase_url": "https://zimcoin-80ef7.firebaseio.com",
+    "project_id": "zimcoin-80ef7",
+    "storage_bucket": "zimcoin-80ef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858369441059:android:295fbda870c62e85",
+        "android_client_info": {
+          "package_name": "com.zimcoin.Chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858369441059-m09ob1m2neah6q05ja00seqdr0hg3n35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zimcoin.Chat",
+            "certificate_hash": "3A9E0B99533360BF73DE68439CED51C51AFF070C"
+          }
+        },
+        {
+          "client_id": "858369441059-snvs68ijip0dn45q6a9roa68b5l6n6g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyCPmJWXaNzriIQyikOj4wfaarozDUW0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858369441059-snvs68ijip0dn45q6a9roa68b5l6n6g8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
